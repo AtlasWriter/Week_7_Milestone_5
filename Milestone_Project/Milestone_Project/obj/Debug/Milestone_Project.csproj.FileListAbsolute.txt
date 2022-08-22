@@ -1,0 +1,15 @@
+D:\C# Activitys\Milestone_Project\Milestone_Project\bin\Debug\Milestone_Project.exe.config
+D:\C# Activitys\Milestone_Project\Milestone_Project\bin\Debug\Milestone_Project.exe
+D:\C# Activitys\Milestone_Project\Milestone_Project\bin\Debug\Milestone_Project.pdb
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.csproj.AssemblyReference.cache
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.csproj.SuggestedBindingRedirects.cache
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.Form1.resources
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.Form2.resources
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.Form3.resources
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.Form4.resources
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.csproj.GenerateResource.cache
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.csproj.CoreCompileInputs.cache
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.exe
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.pdb
+D:\C# Activitys\Milestone_Project\Milestone_Project\obj\Debug\Milestone_Project.InventoryCSH.resources
